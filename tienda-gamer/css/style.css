@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "RobotoCondensed";
-  src: url("fonts/RobotoCondensed-Regular.ttf") format("truetype");
+  src: url("../fonts/RobotoCondensed-Regular.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
